@@ -19,6 +19,8 @@ int main() {
 		// get the order of the magi
 	}
 
-	// find the 
+	// find the Longest Increasing Subsequence of the Magi Order
+	// that sequence indicated how many changes you can make to the Charm Name
+
 
 }
