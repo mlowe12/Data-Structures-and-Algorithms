@@ -22,5 +22,7 @@ int main() {
 	// find the Longest Increasing Subsequence of the Magi Order
 	// that sequence indicated how many changes you can make to the Charm Name
 
-
+	// function for Edit distance between one realm and all the others - Do this for all realms
+	
+	
 }
