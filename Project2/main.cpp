@@ -7,6 +7,18 @@ int main() {
 	string charm;
 	int magiCount;
 	string magiOrder;
+	
+	for (int i= 0; i < numberofRealms; i++) {
+		// Create the number of Realms - Initialize
 
+		// get the charm Name
+
+
+		// get the number of Magi in the realm
+
+		// get the order of the magi
+	}
+
+	// find the 
 
 }
