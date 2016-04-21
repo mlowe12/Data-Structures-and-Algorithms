@@ -8,11 +8,32 @@
 
 using namespace std;
 
-class Magi {
-  
-};
+class Node {
+	public:
+		string charm;
+		Node* travelPath;
+		int magiCounts;
+		int orderOfMagi[];
 
-class Realm {
+		Node() {
+			charm = " ";
+			int magiCount = 0;
+			travelPath = NULL;
+		}
+
+		Node(string s, int c) {
+			charm = s;
+			magiCounts = c;
+			travelPath = NULL;
+		}
+
+		Node(string s, int c, int arr[], Node* p) {
+			charm = s;
+			magiCounts = c;
+			orderOfMagi = arr;
+			travelPath = p;
+		}
+
 
 };
 
