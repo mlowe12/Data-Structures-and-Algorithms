@@ -6,6 +6,10 @@
 #include <string>
 
 
+int LongestIncreasingSubsequence(int arr[], int n) {
+	// n is magiCount
+}
+
 int main(int argc, char** argv)
 {
 	int numberOfRealms; 
